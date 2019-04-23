@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ims2019.ForSimpleUser">
+    <item
+        android:title="Update Profile"
+        android:id="@+id/main_updateProfile_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:title="Logout"
+        android:id="@+id/main_logout_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+</menu>
